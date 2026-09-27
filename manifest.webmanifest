@@ -1,0 +1,16 @@
+{
+  "name": "ASCII Digit Drawpad",
+  "short_name": "Drawpad",
+  "description": "Draw a digit and a small neural network reads it.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#E9EDF2",
+  "theme_color": "#2C57D1",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
